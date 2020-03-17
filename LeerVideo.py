@@ -9,7 +9,7 @@ if captura.isOpened() == False:
 while captura.isOpened():
     
     resultado, video = captura.read()
-    time.sleep(0.1)
+    time.sleep(0.03)
     if resultado == True:
         
         cv2.imshow('Mi video', video)

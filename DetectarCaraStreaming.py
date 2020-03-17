@@ -22,7 +22,7 @@ while True:
     # Dibujamos el Rectangulo
     img = detectar_cara(img)
     
-    cv2.imshow("Detectar Cara en Video", img)
+    cv2.imshow("Detectar Cara en Streming", img)
     
     if cv2.waitKey(1) == 27:
         break
