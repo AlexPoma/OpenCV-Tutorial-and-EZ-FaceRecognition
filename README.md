@@ -13,5 +13,5 @@ Se usan los "haarcascade" para reconocimiento facial en un Video, aca los mejore
 ![](.\images_Markdown\WandaError.png)
 ![](.\images_Markdown\WnVis.png)
 ![](.\images_Markdown\WandaWindow.png)
-![](.\images_Markdown\Loki.png)
-![](.\images_Markdown\LokiError.png)
+![](https://raw.githubusercontent.com/AlexPomaDS/OpenCV-Tutorial-and-EZ-FaceRecognition/master/images_Markdown/Loki.png)
+![](https://github.com/AlexPomaDS/OpenCV-Tutorial-and-EZ-FaceRecognition/blob/master/images_Markdown/LokiError.png?raw=true)
